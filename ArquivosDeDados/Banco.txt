@@ -1,0 +1,5 @@
+100;Banco Seu Dinheiro É Meu
+200;Banco do Flamengo
+500;Banco do Godofredo
+900;Banco Bradesco
+99;Banco Caixa
